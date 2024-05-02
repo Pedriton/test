@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b35a246-da2c-41da-95a0-03cfb173b3a8": {
+      "ProjectGuid": "9b35a246-da2c-41da-95a0-03cfb173b3a8",
+      "DisplayName": "Calc_exe",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

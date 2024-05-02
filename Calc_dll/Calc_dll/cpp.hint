@@ -1,0 +1,2 @@
+#define CALCDLL_API __declspec(dllexport)
+#define CALCDLL_API __declspec(dllimport)

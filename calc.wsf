@@ -1,0 +1,10 @@
+<package>
+  <job id="js">
+    <script languange="JScript">
+      var WshShell = WScript.CreateObject("WScript.Shell");
+      var ret = WshShell.AppActivate("Calculator");
+      if (ret==false)
+        WshShell.Run("calc");
+    </script>
+  </job>
+</package>

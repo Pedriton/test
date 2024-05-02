@@ -1,0 +1,15 @@
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Debug\net6.0\Calc_exe.exe
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Debug\net6.0\Calc_exe.deps.json
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Debug\net6.0\Calc_exe.runtimeconfig.json
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Debug\net6.0\Calc_exe.dll
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Debug\net6.0\ref\Calc_exe.dll
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Debug\net6.0\Calc_exe.pdb
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.csproj.AssemblyReference.cache
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.GeneratedMSBuildEditorConfig.editorconfig
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.AssemblyInfoInputs.cache
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.AssemblyInfo.cs
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.csproj.CoreCompileInputs.cache
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.dll
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\ref\Calc_exe.dll
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.pdb
+E:\DFIR\Assessment\Calc_exe\Calc_exe\obj\Debug\net6.0\Calc_exe.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+﻿  Calc_dll.cpp
+  dllmain.cpp
+     Creating library E:\DFIR\Assessment\Calc_dll\x64\Release\Calc.lib and object E:\DFIR\Assessment\Calc_dll\x64\Release\Calc.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Calc_dll.vcxproj -> E:\DFIR\Assessment\Calc_dll\x64\Release\Calc.dll

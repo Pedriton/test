@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f070f99e-f93a-48c0-a987-d124a2426feb": {
+      "ProjectGuid": "f070f99e-f93a-48c0-a987-d124a2426feb",
+      "DisplayName": "Calc_dll",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

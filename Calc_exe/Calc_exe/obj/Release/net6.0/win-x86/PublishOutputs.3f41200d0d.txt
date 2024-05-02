@@ -1,0 +1,2 @@
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Release\net6.0\publish\win-x86\calc_bin.pdb
+E:\DFIR\Assessment\Calc_exe\Calc_exe\bin\Release\net6.0\publish\win-x86\calc_bin.exe
